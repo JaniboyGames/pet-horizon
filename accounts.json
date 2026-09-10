@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "id": "owner-admin-janiboygames",
+      "email": "janseibt16@gmail.com",
+      "salt": "3bf646ddef177af45167eabef82396e4",
+      "passwordHash": "22a9178968d6be0320ebaf71bf59025414f5e19aa263089d0f72b442081b75d6c9bd02187abbeaae463329b273e4f67833dc03fcef7e0cb41ec81bdd539046fa",
+      "role": "admin",
+      "verified": false,
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    }
+  ]
+}

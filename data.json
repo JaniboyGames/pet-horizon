@@ -1,0 +1,17 @@
+{
+  "codes": [
+    {
+      "id": "welcome",
+      "code": "WELCOME",
+      "reward": {
+        "type": "currency",
+        "item": "Coins",
+        "amount": 1000
+      },
+      "active": true,
+      "expiresAt": null
+    }
+  ],
+  "redeemed": {},
+  "clans": []
+}
