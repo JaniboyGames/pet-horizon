@@ -1,0 +1,29 @@
+{
+  "name": "Pet Horizon – JaniboyGames",
+  "short_name": "Pet Horizon",
+  "description": "Pet Horizon – Pets, Worlds, Eggs, Clans, Codes & News",
+  "start_url": "/#home",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#060f18",
+  "theme_color": "#ff9b3d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/janiboygames-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/#pet-horizon",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "prefer_related_applications": false
+}
